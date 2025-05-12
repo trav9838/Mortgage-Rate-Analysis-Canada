@@ -68,7 +68,37 @@ This project leverages a wide range of **advanced Excel capabilities**, demonstr
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/mortgage_dashboard_summary.png" width="380"/>
+      <br/>
+      <strong>📊 Mortgage Dashboard Summary</strong><br/>
+      Yearly mortgage rates, monthly sparklines, BoC policy changes & CPI inflation.
+    </td>
+    <td align="center">
+      <img src="images/mortgage_rate_by_party.png" width="360"  height="460">
+      <br/>
+      <strong>🏳️ Party Comparison</strong><br/>
+      5-Year mortgage rates under Liberal vs Conservative governments.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/rate_trends_mortgage_policy_inflation.png" width="380"/>
+      <br/>
+      <strong>📈 Trend Line Chart</strong><br/>
+      Mortgage rates vs BoC policy rates vs inflation (2000–2024).
+    </td>
+    <td align="center">
+      <img src="images/dashboard_filters_and_interaction.png" width="380"/>
+      <br/>
+      <strong>🧩 Dashboard Filters</strong><br/>
+      Slicers and timeline for political party and year-based filtering.
+    </td>
+  </tr>
+</table>
+
 
 ---
 
