@@ -14,7 +14,7 @@ Over a 25-year period (2000–2024), the dashboard provides a comprehensive view
 
 ## 📁 Files Included
 
-- `data/DA_mortgage_lending.xlsx` — Cleaned and structured Excel file with all visuals and pivot tables
+- `data/Mortgage_Rate_Analysis_Canada.xlsx` — Cleaned and structured Excel file with all visuals and pivot tables
 - `images/dashboard_preview.png` — Visual dashboard summary (with sparklines, slicers, party breakdowns)
 
 ---
