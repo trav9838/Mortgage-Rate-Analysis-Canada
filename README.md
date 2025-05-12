@@ -1,4 +1,4 @@
-# 🇨🇦 Canadian Mortgage Rate Analysis (2000–2024)
+# Canadian Mortgage Rate Analysis (2000–2024)
 
 📊 **Project Summary**
 
